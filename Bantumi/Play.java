@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Class <code>Play</code> use Player and Table classes.
- * Has methods to play in game called Mankala widely known as Bantumi.
+ * Has methods to play in game called Bantumi.
  *
  * @author Bartłomiej Stasiak
  * @version 1.0.0.0  04/08/2019
@@ -20,7 +20,7 @@ public class Play {
         Player player1 = new Player();
         Player player2 = new Player();
 
-        System.out.println("Zasady gry w Mankala:\n\n" +
+        System.out.println("Zasady gry w Bantumi:\n\n" +
                 "Gra jest dla dwóch osób. \n" +
                 "W pierwszej linii znajduje się sześć pól należących do gracza nr 1. W trzeciej linii znajduje się sześć pól należących do gracza nr 2. \n" +
                 "Każde pole ma dwie cyfry. Pierwsza cyfra odpowiada numerowi pola, druga odpowiada aktualnej ilości fasolek na danym polu. Na każdym polu znajdują się cztery fasolki. \n" +
