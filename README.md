@@ -7,5 +7,7 @@ Zasady są zawarte w programie.
 
 OiX to klasyczna wersja gry w kółko i krzyżyk. 
 Gra jest napisana w Javie, w jednej klasie. 
-Są dostępne 2 rodzaje rozgrywki, z innym graczem lub z podstawowym algorytmem, który może go zastąpić.
+Są dostępne 2 rodzaje rozgrywki, z innym graczem lub z prostym algorytmem, który może go zastąpić.
+
+CV.html zawiera moje CV napisane w formie strony html, z wykorzystaniem języka CSS.
 
