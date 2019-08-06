@@ -11,4 +11,4 @@ Są dostępne 2 rodzaje rozgrywki, z innym graczem lub z prostym algorytmem, kt�
 
 CV.html zawiera moje CV napisane w formie strony html, z wykorzystaniem podstaw języka CSS.
 
-Niemal każdego dnia uczę kolejnej małej rzeczy. Zdobywam kolejne dwa metry. Dlatego dziś, napisałbym to zupełnie inaczej.
+Niemal każdego dnia uczę kolejnej małej rzeczy. Zdobywam kolejne dwa metry. Dlatego dziś, napisałbym to zupełnie inaczej :)
