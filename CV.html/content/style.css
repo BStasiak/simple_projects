@@ -1,0 +1,204 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	font-size: 20px;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#logo
+{
+	margin: 10px;
+	width: 980px;
+	height: 100px;
+	
+}
+
+#name
+{
+	float: left;
+	font-size: 70px;
+	margin: 10px;
+	width: 570px;
+	height: 80px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+#cv
+{
+	float:left;
+	font-size: 40px;
+	margin: 10px;
+	padding: 15px;
+	text-align: center;
+
+}
+
+#language
+{
+	text-align: right;
+	float: left;
+	width: 65px;
+	
+}
+
+#leftSquare
+{
+	width: 490px;
+	height: 635px;
+	float: left;
+	margin-left: 10px;
+		
+
+}
+
+#rightSquare
+{
+	width: 490px;
+	height:635px;
+	float: left;
+	margin-right: 10px;
+	
+}
+
+#text
+{
+	width: 420px;
+	height:395px;
+	padding: 20px;
+	overflow: auto;
+		
+}
+
+
+.tile
+{
+	width: 180px;
+	padding: 20px;
+	margin: 10px;
+	float: left;
+	text-align: center;
+	font-size: 25px;
+	
+}
+
+.rectangle
+{
+	width: 420px;
+	height: 120px;
+	padding: 20px;
+	padding-top: 30px;
+	margin: 10px;
+	text-align: center;
+	font-size: 25px;
+	
+}
+
+.link
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+	
+.languageLink
+{
+	color: #cc0033;
+	text-decoration: none;
+}
+
+#oMnie
+{
+	background-color: #E47833;
+}
+
+#oMnie:hover
+{
+	background-color: #d36722;
+}
+
+#wykształcenie
+{
+	background-color: #7cb342;
+}
+
+#wykształcenie:hover
+{
+	background-color: #6ba231;
+}
+
+#doświadczenie
+{
+	background-color: #29b6f6;
+}
+
+#doświadczenie:hover
+{
+	background-color: #18a5e5;
+}
+
+#umiejętności
+{
+	background-color: #ffd600;
+}
+
+#umiejętności:hover
+{
+	background-color: #eec500;
+}
+
+#zainteresowania
+{
+	background-color: #a52a2a;
+}
+#zainteresowania:hover
+{
+	background-color: #a41a1a;
+}
+
+#gitHub
+{
+	background-color: #7b1fa2;
+}
+
+#gitHub:hover
+{
+	background-color: #6a0ea1;
+}
+
+#zgoda
+{
+	background-color: #008000;
+}
+
+#zgoda:hover
+{
+	background-color: #007000;
+}
+
+#cytat
+{
+	background-color: #008000;
+	margin-left: 0px;
+	margin-top: 20px;
+	
+	
+	
+}
+
+#footer
+{
+	width: 960px;
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+	
+}
+

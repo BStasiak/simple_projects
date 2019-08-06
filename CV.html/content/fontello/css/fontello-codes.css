@@ -1,0 +1,8 @@
+
+.icon-list:before { content: '\e800'; } /* '' */
+.icon-ok-circled:before { content: '\e801'; } /* '' */
+.icon-book-open:before { content: '\e802'; } /* '' */
+.icon-github-circled:before { content: '\f09b'; } /* '' */
+.icon-graduation-cap:before { content: '\f19d'; } /* '' */
+.icon-balance-scale:before { content: '\f24e'; } /* '' */
+.icon-user-circle:before { content: '\f2bd'; } /* '' */
